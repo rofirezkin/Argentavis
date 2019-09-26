@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	padding:0px;
+	margin:0px;
+}
+h1{
+	font-family: arial, sans-serif;
+	font-weight: 400;
+	height: 60px;
+	width: 100%;
+	background: #16A5C7;
+	line-height: 60px;
+	color: white;
+	padding-left: 10px;
+}
+div{
+	min-width: 250px;
+	height: 666px;
+	background: #1A8DA9;
+
+}
+div a{
+	color: white;
+	padding: 20px;
+	padding-right: : 80px;
+}
+div ul li{
+	list-style-type: none;
+	display: block;
+	padding: 15px;
+	border-bottom: 2px solid lightblue;	
+	text-align: left;
+}
+div ul lo{	
+	list-style-type: none;
+	display: block;
+	padding: 15px;
+	border-bottom: 2px solid lightblue;
+}	
+div ul li:hover{
+	background: #236D7F;
+	transition: linear all 0.40s;
+	margin-left: 1px;
+}
+div ul li a:hover{
+	color: white;
+	text-decoration: none;
+}
+.selected1{
+	background: #236D7F;
+}
+.selected a{
+	color: white;
+	text-decoration: none;
+}
+nav{
+	min-width: 250px auto;
+	height: 666px;
+	background: #1A8DA9;
+}
+.img1{
+    width: 70px;
+    height: 70px;
+}
+.mgr{
+    margin-left: 6%;
+    color: white;
+    font-family: Century Gothic;
+	height: 25px;
+	display: inline-block;
+	background: #16A5C7;
+	line-height: 25px;
+	color: white;
+	padding-left: 10px;
+	padding-right: 10px
+}
+.mgr1{
+    margin-left: 5%;
+    font-weight: bold;
+    color: black;
+}
+.cbg{
+    font-size: 15px;
+    background-color: lightblue;
+    min-height: 300px;
+    margin-left: 0%;
+    margin: auto;
+}
+.mgr2{
+    margin-left: 115%;
+    margin: auto;
+    font-family: Century Gothic;
+	display: inline-block;
+	background: #236D7F;
+	color: white;
+	width: 60%;
+    height: 35px;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.mgr2 a{
+	color: white;
+	text-decoration: none;
+}
+.mgr2 a:hover{
+	color: white;
+	text-decoration: none;
+}
+.mgr2:hover{
+	background: #16A5C7;
+	color: white;
+	text-decoration: none;
+}
+.pos{
+    width: 200px;
+    height: 35px;
+}
+.ff{
+    font-size: 15px;
+    text-align: left;
+    font-family: Century Gothic;
+    margin-left: 6%;
+}
+.mgr4{
+    margin-left: 30%;
+    font-family: Century Gothic;
+	display: inline-block;
+	background: #236D7F;
+	color: white;
+	width: 35%;
+    height: 35px;
+    font-size: 13px;
+    font-weight: 700;
+    text-decoration: none;
+}.mgr4 a{
+	color: white;
+	text-decoration: none;
+}
+.mgr4 a:hover{
+	color: white;
+	text-decoration: none;
+}
+.mgr4:hover{
+	background: #16A5C7;
+	color: white;
+	text-decoration: none;
+}
+.mgr3{
+    font-family: Century Gothic;
+	background: #236D7F;
+	color: white;
+	width: 25% auto;
+    height:auto;
+    font-weight: 550;
+    text-decoration: none;
+    border:0;
+}
+.mgr3:hover{
+	background: #16A5C7;
+	color: white;
+	text-decoration: none;
+}
